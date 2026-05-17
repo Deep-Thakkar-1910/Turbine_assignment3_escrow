@@ -64,7 +64,7 @@ graph TD
 
 - **Language** - Rust (toolchain `1.89.0`)
 - **Framework** - [Anchor](https://www.anchor-lang.com/) v1.0.0
-- **Token Support** - SPL Token via `anchor-spl` (Token Interface for Token-2022 compatibility)
+- **Token Support** - SPL Token via `anchor-spl`
 - **Testing** - [LiteSVM](https://github.com/LiteSVM/litesvm) (fast local Solana VM, no validator needed)
 - **Network** - Localnet (configurable in `Anchor.toml`)
 
